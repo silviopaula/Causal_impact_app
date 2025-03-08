@@ -64,5 +64,5 @@ A análise pressupõe que o modelo contrafactual seja adequado
 Em séries muito curtas, a desazonalização pode ser menos confiável
 
 Referências
-[Documentação oficial do CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html)
+[Documentação oficial do CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html)                                                                        
 [Brodersen et al. (2015)](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-1/Inferring-causal-impact-using-Bayesian-structural-time-series-models/10.1214/14-AOAS788.full)
